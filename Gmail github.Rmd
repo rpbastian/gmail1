@@ -4,8 +4,4 @@ author: Richard P Bastian
 output: html_notebook
 ---
 
---- {r}
-x=3
-y=x+4
-y
----
+
